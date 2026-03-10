@@ -1,0 +1,11 @@
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.pdb
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/obj/Debug/net8.0/refint/ClassLibrary1.dll
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.pdb
+/Users/lukaurushadze/Desktop/EHU/CSmultithreading/HW1/Task2/ClassLibrary1/obj/Debug/net8.0/ref/ClassLibrary1.dll
