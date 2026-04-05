@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# IDE/user files
+.idea/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# macOS
+.DS_Store
